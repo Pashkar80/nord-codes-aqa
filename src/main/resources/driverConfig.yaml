@@ -1,8 +1,0 @@
-driverType: LOCAL
-browserType: CHROME
-timeout: 30000
-browserScreenSize: 1280x720
-
-#data for remote core.ui.driver
-hostRemoteDriver: http://192.168.1.3
-portRemoteDriver: 5556
